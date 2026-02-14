@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.cep_agro_guider_frontend"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.cep_agro_guider_frontend"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
